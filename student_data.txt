@@ -1,0 +1,5 @@
+Sahil, Data Science, 85
+Priya, AI, 72
+Rohan, Python, 90
+Meera, Machine Learning, 78
+Amit, Data Analytics, 65
